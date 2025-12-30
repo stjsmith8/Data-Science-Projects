@@ -6,27 +6,18 @@ A more detailed write up of each project along with my resume can be found on my
 
 ## 📊 Featured Projects
 
-### 📈 Retail Sales Time Series Forecasting
-**Goal:** Forecast monthly U.S. retail sales across multiple categories using classical time-series models.  
-**Methods:** ETS, ARIMA, TSLM, decomposition, model comparison (RMSE).  
-**Tools:** R (fpp3), Quarto, Shiny.  
-🔗 **Repository:** https://github.com/USERNAME/retail-sales-forecasting
+### 🎧 Spotify User Segmentation & Behavioral Analysis
+**Goal:** Identify distinct Spotify user segments based on demographics, listening behavior, and subscription preferences.  
+**Methods:** KModes clustering (categorical data), silhouette & elbow methods, association rule mining (support, confidence, lift).  
+**Tools:** Python, pandas, kmodes, mlxtend, matplotlib, seaborn.  
+🔗 **Repository:** [ https://github.com/stjsmith8/user-segmentation](https://github.com/stjsmith8/user-segmentation)
 
 ---
-
-### 🎧 Spotify Track Popularity Prediction
-**Goal:** Predict whether a track will be popular based on audio features.  
-**Methods:** Random Forest, feature importance, class balancing.  
-**Tools:** Python, scikit-learn, pandas, matplotlib.  
-🔗 **Repository:** https://github.com/USERNAME/spotify-popularity-prediction
-
----
-
-### 🛒 Customer Segmentation Analysis
-**Goal:** Segment customers to inform outreach and engagement strategies.  
-**Methods:** k-means clustering, exploratory analysis.  
-**Tools:** Python, pandas, seaborn.  
-🔗 **Repository:** https://github.com/USERNAME/customer-segmentation
+### 💳 Credit Card Customer Churn Prediction
+**Goal:** Predict customer churn and identify behavioral drivers of attrition to support proactive retention strategies.  
+**Methods:** Logistic Regression, Random Forest, XGBoost, SMOTE, feature importance, ROC/AUC analysis.  
+**Tools:** Python, scikit-learn, XGBoost, pandas, matplotlib, seaborn.  
+🔗 **Repository:** https://github.com/stjsmith8/customer-churn-prediction
 
 ---
 
