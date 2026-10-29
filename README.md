@@ -32,5 +32,5 @@ A more detailed write up of each project along with my resume can be found on my
 ---
 
 ## 📬 Contact
-- LinkedIn: https://linkedin.com/in/YOURNAME
-- GitHub: https://github.com/USERNAME
+- LinkedIn: https://www.linkedin.com/in/stjsmith8/
+
